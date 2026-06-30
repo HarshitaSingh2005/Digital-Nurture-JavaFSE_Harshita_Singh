@@ -1,0 +1,26 @@
+# IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Maven Wrapper (ignore if not needed)
+.mvn/
+mvnw
+mvnw.cmd
+
+# Build files
+target/
+
+# Git attributes (optional)
+.gitattributes
+
+# Documentation (optional)
+HELP.md
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
